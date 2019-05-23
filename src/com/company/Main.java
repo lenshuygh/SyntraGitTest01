@@ -8,6 +8,12 @@ public class Main {
         add2ndLine();
 
         mcJavaANewTest();
+        mcJavaANewTest02();
+    }
+
+    private static void mcJavaANewTest02() {
+        System.out.println("another test");
+        System.out.println("another test line 02");
     }
 
     private static void mcJavaANewTest() {
