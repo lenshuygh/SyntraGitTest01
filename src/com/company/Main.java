@@ -13,6 +13,7 @@ public class Main {
 
     private static void mcJavaANewTest02() {
         System.out.println("another test");
+        System.out.println("another test line 02");
     }
 
     private static void mcJavaANewTest() {
