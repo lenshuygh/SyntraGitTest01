@@ -9,6 +9,11 @@ public class Main {
 
         mcJavaANewTest();
         mcJavaANewTest02();
+        mcJavaANewTest03();
+    }
+
+    private static void mcJavaANewTest03() {
+        System.out.println("MCJ_TEST_03");
     }
 
     private static void mcJavaANewTest02() {
