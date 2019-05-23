@@ -6,6 +6,12 @@ public class Main {
         System.out.println("main");
         add3rdLineBefore2nd();
         add2ndLine();
+
+        mcJavaANewTest();
+    }
+
+    private static void mcJavaANewTest() {
+        System.out.println("testing for GIT workflow");
     }
 
     private static void add3rdLineBefore2nd() {
